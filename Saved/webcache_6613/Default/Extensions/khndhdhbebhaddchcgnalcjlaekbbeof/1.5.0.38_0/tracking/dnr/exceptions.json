@@ -1,0 +1,262 @@
+[
+      {
+        "id": 100001,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+              "www.google.com",
+              "accounts.google.com",
+              "photos.google.com",
+              "play.google.com",
+              "docs.google.com",
+              "drive.google.com",
+              "ogs.google.com",
+              "ssl.gstatic.com",
+              "www.gstatic.com",
+              "gstatic.com",
+              "fonts.gstatic.com",
+              "fonts.googleapis.com",
+              "ggpht.com",
+              "googleapis.com",
+              "googleusercontent.com",
+              "googlevideo.com",
+              "youtube.com",
+              "ytimg.com"
+            ],
+            "requestDomains": [
+              "accounts.google.com",
+              "photos.google.com",
+              "play.google.com",
+              "docs.google.com",
+              "drive.google.com",
+              "ogs.google.com",
+              "ssl.gstatic.com",
+              "www.gstatic.com",
+              "gstatic.com",
+              "fonts.gstatic.com",
+              "fonts.googleapis.com",
+              "ggpht.com",
+              "googleapis.com",
+              "googleusercontent.com",
+              "googlevideo.com",
+              "youtube.com",
+              "ytimg.com"
+            ],
+            "resourceTypes": [
+              "main_frame",
+              "sub_frame",
+              "stylesheet",
+              "script",
+              "image",
+              "font",
+              "object",
+              "xmlhttprequest",
+              "ping",
+              "csp_report",
+              "media",
+              "websocket",
+              "webtransport",
+              "webbundle",
+              "other"
+            ]
+        }
+      },
+      {
+        "id": 100002,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+              "armor.netgear.com",
+              "netgear.com",
+              "oauth.netgear.com"
+            ],
+            "requestDomains": [
+              "armor.netgear.com",
+              "netgear.com",
+              "oauth.netgear.com",
+              "assets.adobedtm.com"
+            ],
+            "resourceTypes": [
+              "main_frame",
+              "sub_frame",
+              "stylesheet",
+              "script",
+              "image",
+              "font",
+              "object",
+              "xmlhttprequest",
+              "ping",
+              "csp_report",
+              "media",
+              "websocket",
+              "webtransport",
+              "webbundle",
+              "other"
+            ]
+        }
+      },
+      {
+        "id": 100003,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+              "khndhdhbebhaddchcgnalcjlaekbbeof",
+              "dbconhplchnbippmjabbcedokimacfjl"
+            ],
+            "resourceTypes": [
+              "main_frame",
+              "sub_frame",
+              "stylesheet",
+              "script",
+              "image",
+              "font",
+              "object",
+              "xmlhttprequest",
+              "ping",
+              "csp_report",
+              "media",
+              "websocket",
+              "webtransport",
+              "webbundle",
+              "other"
+            ]
+        }
+      },
+      {
+        "id": 100004,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+              "twitter.com",
+              "abs.twimg.com"
+            ],
+            "requestDomains": [
+              "twitter.com",
+              "abs.twimg.com"
+            ],
+            "resourceTypes": [
+              "main_frame",
+              "sub_frame",
+              "stylesheet",
+              "script",
+              "image",
+              "font",
+              "object",
+              "xmlhttprequest",
+              "ping",
+              "csp_report",
+              "media",
+              "websocket",
+              "webtransport",
+              "webbundle",
+              "other"
+            ]
+        }
+      },
+      {
+        "id": 100005,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+              "www.facebook.com"
+            ],
+            "requestDomains": [
+              "static.xx.fbcdn.net",
+              "fbcdn.net",
+              "cdninstagram.com"
+            ],
+            "resourceTypes": [
+              "main_frame",
+              "sub_frame",
+              "stylesheet",
+              "script",
+              "image",
+              "font",
+              "object",
+              "xmlhttprequest",
+              "ping",
+              "csp_report",
+              "media",
+              "websocket",
+              "webtransport",
+              "webbundle",
+              "other"
+            ]
+        }
+      },
+      {
+        "id": 100006,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+              "www.instagram.com"
+            ],
+            "requestDomains": [
+              "cdninstagram.com",
+              "fbcdn.net"
+            ],
+            "resourceTypes": [
+              "main_frame",
+              "sub_frame",
+              "stylesheet",
+              "script",
+              "image",
+              "font",
+              "object",
+              "xmlhttprequest",
+              "ping",
+              "csp_report",
+              "media",
+              "websocket",
+              "webtransport",
+              "webbundle",
+              "other"
+            ]
+        }
+      },
+      {
+        "id": 100007,
+        "priority": 10,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+          "regexFilter": "https://challenges.cloudflare.com/",
+          "resourceTypes": [
+            "main_frame",
+            "sub_frame",
+            "stylesheet",
+            "script",
+            "image",
+            "font",
+            "object",
+            "xmlhttprequest",
+            "ping",
+            "csp_report",
+            "media",
+            "websocket",
+            "webtransport",
+            "webbundle",
+            "other"
+          ]
+        }
+      }
+]

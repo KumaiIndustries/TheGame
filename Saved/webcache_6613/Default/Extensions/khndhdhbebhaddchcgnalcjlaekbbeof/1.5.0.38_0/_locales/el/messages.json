@@ -1,0 +1,311 @@
+{
+   "add_curr_website": {
+      "message": "Προσθέστε τον τρέχοντα ιστότοπο στη λίστα."
+   },
+   "advertising_category_desc": {
+      "message": "Οι συσκευές παρακολούθησης διαφήμισης χρησιμοποιούνται για την ανάλυση της επισκεψιμότητας των ιστότοπων, της συμπεριφοράς των χρηστών ή των μοτίβων επισκεπτών ιστότοπων."
+   },
+   "advertising_category_title": {
+      "message": "Διαφήμιση"
+   },
+   "advertising_category_tooltip": {
+      "message": "Trackers που αναλύουν την επισκεψιμότητα του ιστότοπου ή τη συμπεριφορά χρήσης."
+   },
+   "advertising_page_button_block": {
+      "message": "Ενεργοποίηση αποκλεισμού"
+   },
+   "advertising_page_button_unblock": {
+      "message": "Απενεργοποίηση αποκλεισμού"
+   },
+   "advertising_page_title": {
+      "message": "Trackers διαφημίσεων (%d)"
+   },
+   "advertising_trackers_tooltip": {
+      "message": "Trackers διαφήμισης"
+   },
+   "analytics_category_desc": {
+      "message": "Οι trackers ανάλυσης ιστοστελίδων χρησιμοποιούνται για τη συλλογή δεδομένων σχετικά με τη χρήση της ιστοσελίδας."
+   },
+   "analytics_category_title": {
+      "message": "Ανάλυση Ιστοστελίδας"
+   },
+   "analytics_category_tooltip": {
+      "message": "Σχετικά με την ανάλυση δεδομένων και τους trackers χρήσης ιστοσελίδων."
+   },
+   "analytics_page_button_block": {
+      "message": "Ενεργοποίηση αποκλεισμού"
+   },
+   "analytics_page_button_unblock": {
+      "message": "Απενεργοποίηση αποκλεισμού"
+   },
+   "analytics_page_title": {
+      "message": "Trackers ιστοτόπου (%d)"
+   },
+   "analytics_trackers_tooltip": {
+      "message": "Τrackers ιστοτόπου"
+   },
+   "app_desc": {
+      "message": "Προστατεύει την ιδιωτική σας ζωή αποκλείοντας τους trackers που συλλέγουν διαφορετικό τύπο δεδομένων κάθε φορά που σερφάρετε στο διαδίκτυο."
+   },
+   "app_name": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "browser_enable_plugin": {
+      "message": "Ενεργοποιήστε την υπηρεσία Anti-tracker σε αυτό το πρόγραμμα περιήγησης"
+   },
+   "browser_not_installed": {
+      "message": "Αυτό το πρόγραμμα περιήγησης δεν εχει εγκατασταθεί στη συσκευή σας"
+   },
+   "browser_session_blocked": {
+      "message": "trackers έχουν αποκλειστεί στην τρέχουσα περίοδο λειτουργίας περιήγησης"
+   },
+   "chrome_label": {
+      "message": "Google Chrome"
+   },
+   "cookies_category_desc": {
+      "message": "Τα cookies τρίτου-τύπου κατασκευαστών χρησιμοποιούνται από διαφημιστές για την παρακολούθηση της διαδικτυακής δραστηριότητας σε όλους τους ιστότοπους ώστε να μπορούν να στοχεύουν σύμφωνα με την συμπεριφορά."
+   },
+   "cookies_category_title": {
+      "message": "Cookies τρύτου τύπου κατασκευαστών "
+   },
+   "cookies_category_tooltip": {
+      "message": "Αποθηκεύει πληροφορίες για να προσδιορίσει την συμπεριφορά σας μέσα στις ιστοσελίδες."
+   },
+   "cookies_page_button_block": {
+      "message": "Ενεργοποίηση αποκλεισμού"
+   },
+   "cookies_page_button_unblock": {
+      "message": "Απενεργοποίηση αποκλεισμού"
+   },
+   "cookies_page_title": {
+      "message": "Cookies τρίτων κατασκευαστών (%d)"
+   },
+   "cookies_trackers_tooltip": {
+      "message": "Cookies τρύτου τύπου κατασκευαστών "
+   },
+   "edge_label": {
+      "message": "Microsoft Edge"
+   },
+   "enable_app": {
+      "message": "Ενεργοποίηση του Bitdefender Anti-tracker ώστε να αποκλειστούν οι παρακολουθήσεις ιστοσελίδων. "
+   },
+   "enable_protection": {
+      "message": "Ενεργοποιήστε την προστασία σε αυτόν τον ιστότοπο"
+   },
+   "essential_category_desc": {
+      "message": "Οι βασικοί trackers χρησιμοποιούνται για την παρακολούθηση σημαντικών λειτουργιών ιστοσελίδας."
+   },
+   "essential_category_title": {
+      "message": "Ουσιώδης"
+   },
+   "essential_category_tooltip": {
+      "message": "Αναφέρεται στους trackers που είναι κρίσιμοι για τη λειτουργικότητα της ιστοσελίδας."
+   },
+   "essential_page_button_block": {
+      "message": "Ενεργοποίηση αποκλεισμού"
+   },
+   "essential_page_button_unblock": {
+      "message": "Απενεργοποίηση αποκλεισμού"
+   },
+   "essential_page_title": {
+      "message": "Βασικοί trackers (%d)"
+   },
+   "essentials_trackers_tooltip": {
+      "message": "Βασικοί trackers"
+   },
+   "exception_action_desc": {
+      "message": "Μη αυτόματη προσθήκη ή κατάργηση ιστότοπων παρακάτω"
+   },
+   "exceptions_desc": {
+      "message": "Οι trackers σε ιστότοπους με εξαίρεση δεν αποκλείονται."
+   },
+   "exceptions_title": {
+      "message": "Εξαιρέσεις"
+   },
+   "extension_status_desc": {
+      "message": "Ενεργοποίηση ή απενεργοποίηση της επέκτασης"
+   },
+   "extension_status_off": {
+      "message": "Το Bitdefender Anti-tracker έχει απενεργοποιηθεί "
+   },
+   "extension_status_on": {
+      "message": "Το Bitdefender Anti-tracker έχει ενεργοποιηθεί "
+   },
+   "finish_setup_ext": {
+      "message": "Ολοκληρώστε τη ρύθμιση της επέκτασης"
+   },
+   "firefox_label": {
+      "message": "Mozilla Firefox"
+   },
+   "fix_availability": {
+      "message": "Επιδιόρθωση"
+   },
+   "hide_more_details": {
+      "message": "Απόκρυψη περισσότερων λεπτομερειών"
+   },
+   "iexplore_label": {
+      "message": "Internet Explorer"
+   },
+   "install_add": {
+      "message": "Προσθήκη στον Firefox"
+   },
+   "install_extension": {
+      "message": "Εγκαταστήστε το Anti-tracker σε αυτό το πρόγραμμα περιήγησης"
+   },
+   "install_title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "interaction_category_desc": {
+      "message": "Οι trackers αλληλεπίδρασης πελατών χρησιμοποιούνται για τη μέτρηση της αλληλεπίδρασης των χρηστών με διαφορετικές φόρμες εισόδου, όπως η συνομιλία ή η υποστήριξη."
+   },
+   "interaction_category_title": {
+      "message": "Αλληλεπίδραση Πελατών"
+   },
+   "interaction_category_tooltip": {
+      "message": "Οι trackers χρησιμοποιούνται για τη μέτρηση της αλληλεπίδρασης με φόρμες όπως η συνομιλία ή η υποστήριξη."
+   },
+   "interaction_page_button_block": {
+      "message": "Ενεργοποίηση αποκλεισμού"
+   },
+   "interaction_page_button_unblock": {
+      "message": "Απενεργοποίηση αποκλεισμού"
+   },
+   "interaction_page_title": {
+      "message": "Τrackers αλληλεπίδρασης πελατών (%d)"
+   },
+   "interaction_trackers_tooltip": {
+      "message": "Τrackers αλληλεπίδρασης πελατών"
+   },
+   "not_enabled": {
+      "message": "Μη ενεργό"
+   },
+   "off": {
+      "message": "Ανενεργό"
+   },
+   "on": {
+      "message": "Ενεργό"
+   },
+   "page_load": {
+      "message": "Φόρτωση σελίδας"
+   },
+   "pause_protection": {
+      "message": "Παύση προστασίας σε αυτόν τον ιστότοπο"
+   },
+   "plugins_title": {
+      "message": "Εφαρμογές με τις οποίες πρέπει να ενσωματωθεί το Anti-tracker"
+   },
+   "policy_accept_agree": {
+      "message": "Συμφωνώ"
+   },
+   "policy_accept_click_agree": {
+      "message": "Κάντε κλικ στην επιλογή Συμφωνώ για να χρησιμοποιήσετε το Bitdefender Anti-Tracker σύμφωνα με την {0}Πολιτική Απορρήτου{1}."
+   },
+   "policy_accept_data_browser": {
+      "message": "Πληροφορίες προγράμματος περιήγησης"
+   },
+   "policy_accept_data_errors": {
+      "message": "Αναφορές σφαλμάτων"
+   },
+   "policy_accept_data_settings": {
+      "message": "Ρυθμίσεις και εξαιρέσεις που διαμορφώνετε στην επέκταση"
+   },
+   "policy_accept_explain": {
+      "message": "Bitdefender Το Anti-tracker συλλέγει ανώνυμα δεδομένα για να αποκλείσει τους ανιχνευτές, να αυξήσει την απόδοση της περιήγησης και να βελτιώσει την εμπειρία σας. Αυτά τα δεδομένα περιλαμβάνουν:"
+   },
+   "policy_accept_gree": {
+      "message": "Συμφωνήστε να χρησιμοποιήσετε Bitdefender Anti-Tracker σύμφωνα με την {0}Πολιτική Απορρήτου{1}."
+   },
+   "policy_accept_open": {
+      "message": "Ανοίξτε το Bitdefender Anti-tracker που βρίσκεται κάτω από το εικονίδιο επέκτασης {0} στην επάνω δεξιά γωνία της γραμμής εργαλείων."
+   },
+   "policy_accept_remove": {
+      "message": "Καταργήστε το Bitdefender Anti-Tracker"
+   },
+   "policy_accept_title": {
+      "message": "Το απόρρητό σας προέχει"
+   },
+   "policy_accepted_click_reload": {
+      "message": "Κάντε κλικ στην «Επαναφόρτωση και ενεργοποίηση» για να ξεκινήσετε να χρησιμοποιείτε την επέκταση."
+   },
+   "policy_accepted_reload": {
+      "message": "Επαναφόρτωση και ενεργοποίηση"
+   },
+   "policy_accepted_title": {
+      "message": "Bitdefender Το Anti-Tracker είναι έτοιμο"
+   },
+   "policy_title": {
+      "message": "Ενεργοποιήστε το Bitdefender Anti-tracker για να ξεκινήσετε"
+   },
+   "product_lang": {
+      "message": "el-GR"
+   },
+   "seconds": {
+      "message": "δευτ"
+   },
+   "settings_title": {
+      "message": "Ρυθμίσεις"
+   },
+   "short_name": {
+      "message": "Anti-tracker"
+   },
+   "show_more_details": {
+      "message": "Προβολή περισσότερων λεπτομερειών"
+   },
+   "social_category_desc": {
+      "message": "Οι trackers κοινωνικών μέσων χρησιμοποιούνται για την παρακολούθηση του κοινωνικού κοινού, της δραστηριότητας και της εμπλοκής του χρήστη με διαφορετικές πλατφόρμες κοινωνικών μέσων."
+   },
+   "social_category_title": {
+      "message": "Κοινωνικά Δίκτυα"
+   },
+   "social_category_tooltip": {
+      "message": "Οι trackers χρησιμοποιούνται για τη μέτρηση της δέσμευσης με διαφορετικές πλατφόρμες κοινωνικών μέσων."
+   },
+   "social_page_button_block": {
+      "message": "Ενεργοποίηση αποκλεισμού"
+   },
+   "social_page_button_unblock": {
+      "message": "Απενεργοποίηση αποκλεισμού"
+   },
+   "social_page_title": {
+      "message": "Trackers κοινωνικών δικτύων (%d)"
+   },
+   "social_trackers_tooltip": {
+      "message": "Trackers κοινωνικών δικτύων"
+   },
+   "special_offers": {
+      "message": "Ειδικές προσφορές"
+   },
+   "special_offers_tooltip": {
+      "message": "Χρησιμοποιούμε τους εμπορικούς trackers για να σας βοηθήσουμε να βρείτε εύκολα τις ειδικές προσφορές μας. Αποστολή μας είναι να προστατέψουμε το ιδιωτικό σας απόρρητο. Ποτέ δεν μοιραζόμαστε καμία από τις πληροφορίες που συλλέξαμε με κανέναν, για οποιονδήποτε σκοπό."
+   },
+   "str": {
+      "message": "trackers"
+   },
+   "title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "tooltip": {
+      "message": "Αποκλείει την συλλογή δεδομένων της περιήγησής σας σε sites που θα επέτρεπαν τη στόχευση προφίλ χρήστη και την εμπορική στόχευση."
+   },
+   "trackers_blocked": {
+      "message": "Αποκλείστηκε trackers"
+   },
+   "update_in_progress": {
+      "message": "Ενημέρωση σε εξέλιξη, περιμένετε..."
+   },
+   "url_already_exists": {
+      "message": "Η διεύθυνση URL υπάρχει ήδη."
+   },
+   "url_is_empty": {
+      "message": "Η διεύθυνση URL είναι κενή"
+   },
+   "url_not_valid": {
+      "message": "Η διεύθυνση URL δεν είναι έγκυρη."
+   },
+   "website_added_list": {
+      "message": "Ο ιστότοπος προστέθηκε"
+   },
+   "website_url_enter": {
+      "message": "Εισαγάγετε τη διεύθυνση ιστότοπου"
+   }
+}

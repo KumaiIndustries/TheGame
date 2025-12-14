@@ -1,0 +1,296 @@
+[
+  {
+    "id": 40001,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "pixel.facebook.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40002,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "assets.pinterest.([a-z\\.]+)/js/pinit.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40003,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "ct.pinterest.([a-z\\.]+)/v[3-9]",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40004,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "platform.twitter.([a-z\\.]+)/widgets",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40005,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "platform.linkedin.([a-z\\.]+)/js/analytics.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40006,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "pixel.reddit.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40007,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "pixel.redditmedia.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40008,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "log.pinterest.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40009,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "log.spotify.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40010,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "connect.facebook.net/.*/fbevents.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40011,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "s7.addthis.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40012,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "launcher.spot.im/spot/sp_f76RE06N",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40013,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "top-fwz1.mail.ru/js/code.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40014,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "syndication.twitter.com/i/jot/syndication",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40015,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "t.co/i/adsct",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40016,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "static.addtoany.com/menu/page.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40017,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "graph.facebook.com/v3.3/([0-9]+)/picture",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40018,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "api.pinterest.([a-z\\.]+)/v1/urls/count.json",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40019,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "secure.gravatar.([a-z\\.]+)/js/gprofiles.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40020,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "facebook.([a-z\\.]+)/plugins/like.php",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 40021,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "secure.gravatar.([a-z\\.]+)/avatar",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  }
+]

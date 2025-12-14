@@ -1,0 +1,311 @@
+{
+   "add_curr_website": {
+      "message": "Ajouter un nouveau site web à la liste."
+   },
+   "advertising_category_desc": {
+      "message": "Les trackers publicitaires sont utilisés pour analyser le trafic du site web, le comportement de l’utilisateur ou les modèles de trafic des visiteurs."
+   },
+   "advertising_category_title": {
+      "message": "Publicité"
+   },
+   "advertising_category_tooltip": {
+      "message": "Trackers qui analysent le trafic d’un site ou le comportement des utilisateurs."
+   },
+   "advertising_page_button_block": {
+      "message": "Activer le blocage pour cette catégorie"
+   },
+   "advertising_page_button_unblock": {
+      "message": "Désactiver le blocage pour cette catégorie"
+   },
+   "advertising_page_title": {
+      "message": "Trackers publicitaires (%d)"
+   },
+   "advertising_trackers_tooltip": {
+      "message": "Trackers publicitaires"
+   },
+   "analytics_category_desc": {
+      "message": "Les trackers d’analyse du site sont utilisés pour collecter des données relatives à l’utilisation de la page web."
+   },
+   "analytics_category_title": {
+      "message": "Analyse du site"
+   },
+   "analytics_category_tooltip": {
+      "message": "Trackers d’analyse des données et de l’utilisation des pages web."
+   },
+   "analytics_page_button_block": {
+      "message": "Activer le blocage pour cette catégorie"
+   },
+   "analytics_page_button_unblock": {
+      "message": "Désactiver le blocage pour cette catégorie"
+   },
+   "analytics_page_title": {
+      "message": "Trackers d’analyse du site (%d)"
+   },
+   "analytics_trackers_tooltip": {
+      "message": "Trackers d’analyse du site"
+   },
+   "app_desc": {
+      "message": "Protège votre vie privée en bloquant les trackers qui collectent divers types de données lorsque vous êtes en ligne."
+   },
+   "app_name": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "browser_enable_plugin": {
+      "message": "Activer Anti-tracker sur ce navigateur"
+   },
+   "browser_not_installed": {
+      "message": "Ce navigateur n'est pas installé sur votre appareil"
+   },
+   "browser_session_blocked": {
+      "message": "trackers bloqués lors de la session de navigation actuelle"
+   },
+   "chrome_label": {
+      "message": "Google Chrome"
+   },
+   "cookies_category_desc": {
+      "message": "Les cookies tiers sont utilisés par les annonceurs pour suivre votre activité en ligne sur les sites que vous consultez à des fins de ciblage comportemental."
+   },
+   "cookies_category_title": {
+      "message": "Cookies tiers"
+   },
+   "cookies_category_tooltip": {
+      "message": "Conserve des informations permettant d'analyser votre comportement sur les sites que vous consultez."
+   },
+   "cookies_page_button_block": {
+      "message": "Activer le blocage pour cette catégorie"
+   },
+   "cookies_page_button_unblock": {
+      "message": "Désactiver le blocage pour cette catégorie"
+   },
+   "cookies_page_title": {
+      "message": "Cookies tiers (%d)"
+   },
+   "cookies_trackers_tooltip": {
+      "message": "Cookies tiers"
+   },
+   "edge_label": {
+      "message": "Microsoft Edge"
+   },
+   "enable_app": {
+      "message": "Activer le Bloqueur de traceurs Bitdefender pour empêcher le traçage de votre navigation en ligne"
+   },
+   "enable_protection": {
+      "message": "Activer le blocage sur ce site web"
+   },
+   "essential_category_desc": {
+      "message": "Les trackers essentiels sont utilisés pour surveiller des fonctionnalités critiques du site web."
+   },
+   "essential_category_title": {
+      "message": "Essentiel"
+   },
+   "essential_category_tooltip": {
+      "message": "Trackers critiques pour le fonctionnement d'une page web."
+   },
+   "essential_page_button_block": {
+      "message": "Activer le blocage pour cette catégorie"
+   },
+   "essential_page_button_unblock": {
+      "message": "Désactiver le blocage pour cette catégorie"
+   },
+   "essential_page_title": {
+      "message": "Trackers essentiels (%d)"
+   },
+   "essentials_trackers_tooltip": {
+      "message": "Trackers essentiels"
+   },
+   "exception_action_desc": {
+      "message": "Ajoutez ou supprimez manuellement des sites web ci-dessous"
+   },
+   "exceptions_desc": {
+      "message": "Permet d'autoriser les trackers sur certains sites"
+   },
+   "exceptions_title": {
+      "message": "Exceptions"
+   },
+   "extension_status_desc": {
+      "message": "Permet d'activer ou de désactiver l'extension"
+   },
+   "extension_status_off": {
+      "message": "Le Bloqueur de traceurs Bitdefender est DÉSACTIVÉ"
+   },
+   "extension_status_on": {
+      "message": "Le Bloqueur de traceurs Bitdefender est ACTIVÉ"
+   },
+   "finish_setup_ext": {
+      "message": "Terminer l'installation de l'extension"
+   },
+   "firefox_label": {
+      "message": "Firefox"
+   },
+   "fix_availability": {
+      "message": "Corriger"
+   },
+   "hide_more_details": {
+      "message": "Masquer les détails"
+   },
+   "iexplore_label": {
+      "message": "Internet Explorer"
+   },
+   "install_add": {
+      "message": "Ajouter à Firefox"
+   },
+   "install_extension": {
+      "message": "Installer Anti-tracker sur ce navigateur"
+   },
+   "install_title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "interaction_category_desc": {
+      "message": "Les trackers d’interaction client sont utilisés pour mesurer l’interaction de l’utilisateur avec les différents moyens de communication tels que les chats et supports."
+   },
+   "interaction_category_title": {
+      "message": "Interaction client"
+   },
+   "interaction_category_tooltip": {
+      "message": "Trackers utilisés pour mesurer l’interaction avec les moyens de communication tels que les chats et supports."
+   },
+   "interaction_page_button_block": {
+      "message": "Activer le blocage pour cette catégorie"
+   },
+   "interaction_page_button_unblock": {
+      "message": "Désactiver le blocage pour cette catégorie"
+   },
+   "interaction_page_title": {
+      "message": "Trackers d’interaction client (%d)"
+   },
+   "interaction_trackers_tooltip": {
+      "message": "Trackers d’interaction client"
+   },
+   "not_enabled": {
+      "message": "Désactivé"
+   },
+   "off": {
+      "message": "Non"
+   },
+   "on": {
+      "message": "Oui"
+   },
+   "page_load": {
+      "message": "Chargement de la page"
+   },
+   "pause_protection": {
+      "message": "Interrompre le blocage sur ce site web"
+   },
+   "plugins_title": {
+      "message": "Applications auxquelles l'Anti-tracker devrait être intégré"
+   },
+   "policy_accept_agree": {
+      "message": "J'accepte"
+   },
+   "policy_accept_click_agree": {
+      "message": "Cliquez sur « Accepter » pour utiliser l'anti-tracker Bitdefender conformément à la {0}Politique de confidentialité{1}."
+   },
+   "policy_accept_data_browser": {
+      "message": "les informations relatives à votre navigateur"
+   },
+   "policy_accept_data_errors": {
+      "message": "les rapports d'erreur"
+   },
+   "policy_accept_data_settings": {
+      "message": "Paramètres et exceptions que vous configurez dans l'extension"
+   },
+   "policy_accept_explain": {
+      "message": "BitdefenderL'anti-tracker collecte des données anonymes afin de bloquer les trackers, d'accroître les performances de navigation et d'améliorer votre expérience. Ces données incluent :"
+   },
+   "policy_accept_gree": {
+      "message": "Accepter d'utiliser l'anti-tracker Bitdefender conformément à la {0}Politique de confidentialité{1}."
+   },
+   "policy_accept_open": {
+      "message": "Ouvrez l'anti-tracker Bitdefender qui se trouve sous l'icône des extensions {0} dans le coin supérieur droit de la barre d'outils."
+   },
+   "policy_accept_remove": {
+      "message": "Supprimer l'anti-tracker Bitdefender"
+   },
+   "policy_accept_title": {
+      "message": "Votre vie privée passe avant tout"
+   },
+   "policy_accepted_click_reload": {
+      "message": "Cliquez sur « Recharger et activer » pour commencer à utiliser l'extension."
+   },
+   "policy_accepted_reload": {
+      "message": "Actualiser et activer"
+   },
+   "policy_accepted_title": {
+      "message": "L'anti-tracker Bitdefender est prêt"
+   },
+   "policy_title": {
+      "message": "Activer l'anti-tracker Bitdefender pour commencer"
+   },
+   "product_lang": {
+      "message": "fr-FR"
+   },
+   "seconds": {
+      "message": "sec"
+   },
+   "settings_title": {
+      "message": "Paramètres"
+   },
+   "short_name": {
+      "message": "Anti-tracker"
+   },
+   "show_more_details": {
+      "message": "Plus de détails"
+   },
+   "social_category_desc": {
+      "message": "Les trackers de réseaux sociaux sont utilisés pour surveiller l’audience sociale, l’activité et l’engagement de l’utilisateur avec diverses plateformes de réseaux sociaux."
+   },
+   "social_category_title": {
+      "message": "Réseaux sociaux"
+   },
+   "social_category_tooltip": {
+      "message": "Trackers utilisés pour mesurer l’engagement avec diverses plateformes de réseaux sociaux."
+   },
+   "social_page_button_block": {
+      "message": "Activer le blocage pour cette catégorie"
+   },
+   "social_page_button_unblock": {
+      "message": "Désactiver le blocage pour cette catégorie"
+   },
+   "social_page_title": {
+      "message": "Trackers de réseaux sociaux (%d)"
+   },
+   "social_trackers_tooltip": {
+      "message": "Trackers de réseaux sociaux"
+   },
+   "special_offers": {
+      "message": "Offres spéciales"
+   },
+   "special_offers_tooltip": {
+      "message": "Nous utilisons des trackers commerciaux pour vous communiquer facilement nos offres spéciales. Notre mission est de protéger votre vie privée. Nous ne partageons jamais les informations collectées, avec qui que ce soit, et pour quelque raison que ce soit."
+   },
+   "str": {
+      "message": "trackers"
+   },
+   "title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "tooltip": {
+      "message": "Empêche les trackers web de collecter des données permettant la création d'un profil utilisateur et le ciblage commercial."
+   },
+   "trackers_blocked": {
+      "message": "Trackers bloqués"
+   },
+   "update_in_progress": {
+      "message": "Mise à jour en cours, veuillez patienter."
+   },
+   "url_already_exists": {
+      "message": "L'URL existe déjà."
+   },
+   "url_is_empty": {
+      "message": "L'URL est vide"
+   },
+   "url_not_valid": {
+      "message": "L'URL n'est pas valide."
+   },
+   "website_added_list": {
+      "message": "Site web ajouté"
+   },
+   "website_url_enter": {
+      "message": "Saisissez l’URL du site web"
+   }
+}

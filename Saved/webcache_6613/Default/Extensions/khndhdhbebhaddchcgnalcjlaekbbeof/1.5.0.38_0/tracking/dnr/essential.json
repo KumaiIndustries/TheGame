@@ -1,0 +1,268 @@
+[
+  {
+    "id": 50001,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "privacy-policy.truste.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50002,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "nexus.ensighten.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50003,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "static.scroll.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50004,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "s.btstatic.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50005,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "cdn.polyfill.io",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50006,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "cdn.onesignal.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50007,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "consent.truste.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50008,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "adobedtm.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50009,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "adobetag.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50010,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "bam.nr-data.net",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50011,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "fbc.wcfbc.net/v1/fbc",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50012,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "ahrefs.disqus.com/count-data.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50013,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "ajax.googleapis.com/ajax/libs/webfont/1/webfont.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50014,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "googletagservices.com/tag/js/gdem.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50015,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "googletagmanager.([a-z\\.]+)/gtm.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50016,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "googletagmanager.([a-z\\.]+)/gtag/js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50017,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "googletagmanager.([a-z\\.]+)/gtag/amp",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50018,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "c.lytics.io/api/tag/.*/lio.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 50019,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "loadus.exelator.com/load/",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  }
+]

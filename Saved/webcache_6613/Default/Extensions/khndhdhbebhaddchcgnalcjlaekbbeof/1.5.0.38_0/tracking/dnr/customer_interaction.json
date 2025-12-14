@@ -1,0 +1,548 @@
+[
+  {
+    "id": 30001,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "lptag.liveperson.net/tag",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30002,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "asset.pagefair.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30003,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "display.ugc.bazaarvoice.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30004,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "zergnet.([a-z\\.]+)",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30005,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "cdns.gigya.([a-z\\.]+)/js/gigya.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30006,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "w.usabilla.([a-z\\.]+)/c3244e3d16ba.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30007,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "luxotticaitalia01.wt-eu02.net",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30008,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "fundingchoicesmessages.google.com",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30009,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "prisacom.sc.omtrdc.net",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30010,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "consent.cmp.oath.com/cmpStub.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30011,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "consent.cmp.oath.com/version",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30012,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "consent.cmp.oath.com/cmp.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30013,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "s.skimresources.com/js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30014,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "s.aolcdn.com/ads/adsWrapper.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30015,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "d.tailtarget.com/conversion.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30016,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "tt-10162-1.seg.t.tailtarget.com/profile",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30017,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "tags.t.tailtarget.com/t3m.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30018,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "app-ab01.marketo.com/js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30019,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "munchkin.marketo.net/munchkin.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30020,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "cdn.bizible.com/scripts/bizible.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30021,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "counter.yadro.ru/hit;mail-splash/",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30022,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "tns-counter.ru/V13a",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30023,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "d1z2jf7jlzjs58.cloudfront.net/keys/",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30024,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "as-sec.casalemedia.com/cygnus?s=",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30025,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "mpp2.vindicosuite.com/mpp",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30026,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "x.vindicosuite.com/imp/?",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30027,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "vid.springserve.com/vast/",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30028,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "tag.bounceexchange.com/2045/i.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30029,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "us.tags.newscgp.com/prod/ncg/ncg.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30030,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "video.unrulymedia.com/native/native-loader.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30031,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "a.quora.com/qevents.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30032,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "tags-cdn.deployads.com/a/",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30033,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "vmss.boldchat.com/aid/2882483596352441248/bc.vms4/vms.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30034,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "porscheat01.wt-eu02.net/",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30035,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "eviltracker.net/?action=tracking_tally",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30036,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "cdn.digitru.st/prod/1/digitrust.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30037,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "static.vilynx.([a-z\\.]+)/gallery/vpg.*.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30038,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "a.tribalfusion.([a-z\\.]+)/pixel/tags/.*/pixel.js",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  },
+  {
+    "id": 30039,
+    "priority": 2,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "regexFilter": "consent.trustarc.([a-z\\.]+)/notice",
+      "resourceTypes": [
+        "script"
+      ]
+    }
+  }
+]

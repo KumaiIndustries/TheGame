@@ -1,0 +1,311 @@
+{
+   "add_curr_website": {
+      "message": "將當前網站新增到清單中。"
+   },
+   "advertising_category_desc": {
+      "message": "廣告追蹤器用於分析網站流量，使用者行為或網站訪問者的模式。"
+   },
+   "advertising_category_title": {
+      "message": "廣告"
+   },
+   "advertising_category_tooltip": {
+      "message": "追蹤器用於分析網站流量或使用行為。"
+   },
+   "advertising_page_button_block": {
+      "message": "啟用對此類別的封鎖"
+   },
+   "advertising_page_button_unblock": {
+      "message": "停用對此類別的封鎖"
+   },
+   "advertising_page_title": {
+      "message": "廣告追蹤器 (%d）"
+   },
+   "advertising_trackers_tooltip": {
+      "message": "廣告追蹤器"
+   },
+   "analytics_category_desc": {
+      "message": "網站分析追蹤器用於收集有關網頁使用情況的資料。"
+   },
+   "analytics_category_title": {
+      "message": "網站分析"
+   },
+   "analytics_category_tooltip": {
+      "message": "與資料分析和網頁使用情況追蹤器相關。"
+   },
+   "analytics_page_button_block": {
+      "message": "啟用對此類別的封鎖"
+   },
+   "analytics_page_button_unblock": {
+      "message": "停用對此類別的封鎖"
+   },
+   "analytics_page_title": {
+      "message": "網站分析追蹤器 (%d）"
+   },
+   "analytics_trackers_tooltip": {
+      "message": "網站分析追蹤器"
+   },
+   "app_desc": {
+      "message": "透過封鎖追蹤器在您每次線上瀏覽時收集不同類型的資料來保護您的隱私。"
+   },
+   "app_name": {
+      "message": "Bitdefender 反追蹤器"
+   },
+   "browser_enable_plugin": {
+      "message": "在此瀏覽器上啟用反追蹤器"
+   },
+   "browser_not_installed": {
+      "message": "此瀏覽器未安裝在您的裝置上"
+   },
+   "browser_session_blocked": {
+      "message": "目前瀏覽工作階段中封鎖的追蹤器"
+   },
+   "chrome_label": {
+      "message": "Google Chrome"
+   },
+   "cookies_category_desc": {
+      "message": "廣告商會使用第三方 Cookie 來監控網站上的線上活動，以進行行為目標鎖定。"
+   },
+   "cookies_category_title": {
+      "message": "第三方 Cookie"
+   },
+   "cookies_category_tooltip": {
+      "message": "儲存資訊以識別您在網站上的行為。"
+   },
+   "cookies_page_button_block": {
+      "message": "啟用對此類別的封鎖"
+   },
+   "cookies_page_button_unblock": {
+      "message": "停用對此類別的封鎖"
+   },
+   "cookies_page_title": {
+      "message": "第三方 Cookie (%d)"
+   },
+   "cookies_trackers_tooltip": {
+      "message": "第三方 Cookie"
+   },
+   "edge_label": {
+      "message": "Microsoft Edge"
+   },
+   "enable_app": {
+      "message": "啟用 Bitdefender 反追蹤器以停止網站追蹤器"
+   },
+   "enable_protection": {
+      "message": "在此網站上啟用防護"
+   },
+   "essential_category_desc": {
+      "message": "基本追蹤器用於監視關鍵的網頁功能。"
+   },
+   "essential_category_title": {
+      "message": "基本"
+   },
+   "essential_category_tooltip": {
+      "message": "與對網頁功能至關重要的追蹤器相關。"
+   },
+   "essential_page_button_block": {
+      "message": "啟用對此類別的封鎖"
+   },
+   "essential_page_button_unblock": {
+      "message": "停用對此類別的封鎖"
+   },
+   "essential_page_title": {
+      "message": "基本追蹤器 (%d）"
+   },
+   "essentials_trackers_tooltip": {
+      "message": "基本追蹤器"
+   },
+   "exception_action_desc": {
+      "message": "在下方手動新增或移除網站"
+   },
+   "exceptions_desc": {
+      "message": "例外網站上的追蹤器將不會遭到封鎖。"
+   },
+   "exceptions_title": {
+      "message": "例外"
+   },
+   "extension_status_desc": {
+      "message": "啟用或停用擴充功能"
+   },
+   "extension_status_off": {
+      "message": "Bitdefender 反追蹤器已關閉"
+   },
+   "extension_status_on": {
+      "message": "Bitdefender 反追蹤器已開啟"
+   },
+   "finish_setup_ext": {
+      "message": "完成擴充功能的設定"
+   },
+   "firefox_label": {
+      "message": "Mozilla Firefox"
+   },
+   "fix_availability": {
+      "message": "修復"
+   },
+   "hide_more_details": {
+      "message": "隱藏更多細節"
+   },
+   "iexplore_label": {
+      "message": "IE 瀏覽器"
+   },
+   "install_add": {
+      "message": "新增到Firefox"
+   },
+   "install_extension": {
+      "message": "在此瀏覽器上安裝反追蹤器"
+   },
+   "install_title": {
+      "message": "Bitdefender 反追蹤器"
+   },
+   "interaction_category_desc": {
+      "message": "客戶互動追蹤器用於衡量使用者對於不同輸入表單 (例如聊天或支援) 的互動情況。"
+   },
+   "interaction_category_title": {
+      "message": "客戶互動資料"
+   },
+   "interaction_category_tooltip": {
+      "message": "追蹤器用於衡量與表單 (例如聊天或支援) 的互動。"
+   },
+   "interaction_page_button_block": {
+      "message": "啟用對此類別的封鎖"
+   },
+   "interaction_page_button_unblock": {
+      "message": "停用對此類別的封鎖"
+   },
+   "interaction_page_title": {
+      "message": "客戶互動追蹤器 (%d）"
+   },
+   "interaction_trackers_tooltip": {
+      "message": "客戶互動追蹤器"
+   },
+   "not_enabled": {
+      "message": "未啟用"
+   },
+   "off": {
+      "message": "關"
+   },
+   "on": {
+      "message": "開"
+   },
+   "page_load": {
+      "message": "頁面載入"
+   },
+   "pause_protection": {
+      "message": "暫停本網站的保護"
+   },
+   "plugins_title": {
+      "message": "您可以將防追蹤器與以下應用程式一起使用"
+   },
+   "policy_accept_agree": {
+      "message": "同意"
+   },
+   "policy_accept_click_agree": {
+      "message": "根據 {0}隱私權政策{1}，按一下「同意」使用 Bitdefender 反追蹤程式。"
+   },
+   "policy_accept_data_browser": {
+      "message": "瀏覽器資訊"
+   },
+   "policy_accept_data_errors": {
+      "message": "錯誤報告"
+   },
+   "policy_accept_data_settings": {
+      "message": "您在擴充程序中配置的設置和例外"
+   },
+   "policy_accept_explain": {
+      "message": "Bitdefender 反跟踪器收集匿名數據，以阻止跟踪器，進而提高瀏覽性能並改善您的體驗。此資料包括："
+   },
+   "policy_accept_gree": {
+      "message": "根據 {0}隱私政策{1}使用 同意使用Bitdefender 反追踪器。"
+   },
+   "policy_accept_open": {
+      "message": "打開位於工具欄右上角擴充程序標示 {0} Bitdefender下的反跟踪器。"
+   },
+   "policy_accept_remove": {
+      "message": "刪除 Bitdefender 反跟踪"
+   },
+   "policy_accept_title": {
+      "message": "您的隱私最為優先"
+   },
+   "policy_accepted_click_reload": {
+      "message": "單擊「重新加載並啟動」以開始使用擴充程序。"
+   },
+   "policy_accepted_reload": {
+      "message": "重新載入並啟動"
+   },
+   "policy_accepted_title": {
+      "message": "Bitdefender 反跟踪器已準備就緒"
+   },
+   "policy_title": {
+      "message": "啟用 Bitdefender 反追蹤器以開始使用"
+   },
+   "product_lang": {
+      "message": "zh-TW"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "settings_title": {
+      "message": "設定"
+   },
+   "short_name": {
+      "message": "反追蹤器"
+   },
+   "show_more_details": {
+      "message": "顯示更多細節"
+   },
+   "social_category_desc": {
+      "message": "社交媒體追蹤器用於監視社交受眾，活動和不同社交媒體平台的使用者參與度。"
+   },
+   "social_category_title": {
+      "message": "社交媒體"
+   },
+   "social_category_tooltip": {
+      "message": "用於衡量與不同社交媒體平台互動的追蹤器。"
+   },
+   "social_page_button_block": {
+      "message": "啟用對此類別的封鎖"
+   },
+   "social_page_button_unblock": {
+      "message": "停用對此類別的封鎖"
+   },
+   "social_page_title": {
+      "message": "社交媒體追蹤器（%d）"
+   },
+   "social_trackers_tooltip": {
+      "message": "社交媒體追蹤器"
+   },
+   "special_offers": {
+      "message": "特別優惠"
+   },
+   "special_offers_tooltip": {
+      "message": "我們使用商業追蹤器來協助您輕鬆找到我們的特別優惠。我們的使命是保護您的隱私。我們絕不會出於任何目的與任何人共享所收集的任何資訊。"
+   },
+   "str": {
+      "message": "追蹤器"
+   },
+   "title": {
+      "message": "Bitdefender 反追蹤器"
+   },
+   "tooltip": {
+      "message": "封鎖 Web 追蹤器收集可以啟用用戶分析和商業定位的資料。"
+   },
+   "trackers_blocked": {
+      "message": "已封鎖追蹤器"
+   },
+   "update_in_progress": {
+      "message": "更新進行中，請稍候..."
+   },
+   "url_already_exists": {
+      "message": "這個 URL 已經存在。"
+   },
+   "url_is_empty": {
+      "message": "URL 是空的"
+   },
+   "url_not_valid": {
+      "message": "URL 無效。"
+   },
+   "website_added_list": {
+      "message": "網站已新增"
+   },
+   "website_url_enter": {
+      "message": "輸入網站 URL"
+   }
+}

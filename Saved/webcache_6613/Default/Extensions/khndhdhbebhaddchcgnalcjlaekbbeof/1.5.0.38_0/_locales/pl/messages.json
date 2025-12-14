@@ -1,0 +1,311 @@
+{
+   "add_curr_website": {
+      "message": "Dodaj bieżącą stronę do listy."
+   },
+   "advertising_category_desc": {
+      "message": "Trackery reklamowe są używane do analizowania ruchu w witrynie, zachowań użytkowników lub wzorców odwiedzających witrynę."
+   },
+   "advertising_category_title": {
+      "message": "Reklamy"
+   },
+   "advertising_category_tooltip": {
+      "message": "Trackery analizujące ruch na stronie lub zachowania związane z użytkowaniem."
+   },
+   "advertising_page_button_block": {
+      "message": "Włącz blokowanie tej kategorii"
+   },
+   "advertising_page_button_unblock": {
+      "message": "Wyłącz blokowanie dla tej kategorii"
+   },
+   "advertising_page_title": {
+      "message": "Trackery reklamowe (%d)"
+   },
+   "advertising_trackers_tooltip": {
+      "message": "Trackery reklamowe"
+   },
+   "analytics_category_desc": {
+      "message": "trackery analityki witryn służą do gromadzenia danych dotyczących korzystania ze stron internetowych."
+   },
+   "analytics_category_title": {
+      "message": "Analityka strony"
+   },
+   "analytics_category_tooltip": {
+      "message": "Dotyczy analiz danych i śledzenia użycia stron internetowych."
+   },
+   "analytics_page_button_block": {
+      "message": "Włącz blokowanie tej kategorii"
+   },
+   "analytics_page_button_unblock": {
+      "message": "Wyłącz blokowanie dla tej kategorii"
+   },
+   "analytics_page_title": {
+      "message": "Trackery Analizy stron (%d)"
+   },
+   "analytics_trackers_tooltip": {
+      "message": "Trackery Analizy stron"
+   },
+   "app_desc": {
+      "message": "Chroni Twoją prywatność, blokując trackery, które zbierają różnego rodzaju dane za każdym razem, gdy nawigujesz online."
+   },
+   "app_name": {
+      "message": "Anti-tracker Bitdefender"
+   },
+   "browser_enable_plugin": {
+      "message": "Włącz Anti-tracker w tej przeglądarce"
+   },
+   "browser_not_installed": {
+      "message": "Ta przeglądarka nie jest zainstalowana na Twoim urządzeniu."
+   },
+   "browser_session_blocked": {
+      "message": "trackery zablokowane w bieżącej sesji przeglądania"
+   },
+   "chrome_label": {
+      "message": "Google Chrome"
+   },
+   "cookies_category_desc": {
+      "message": "Pliki cookie innych firm są wykorzystywane przez reklamodawców do monitorowania aktywności między stronami w celu profilowania zachowań. "
+   },
+   "cookies_category_title": {
+      "message": "Pliki cookie innych firm"
+   },
+   "cookies_category_tooltip": {
+      "message": "Przechowuje informacje pozwalające zidentyfikować Twoje zachowanie na różnych stronach. "
+   },
+   "cookies_page_button_block": {
+      "message": "Włącz blokowanie tej kategorii"
+   },
+   "cookies_page_button_unblock": {
+      "message": "Wyłącz blokowanie dla tej kategorii"
+   },
+   "cookies_page_title": {
+      "message": "Pliki cookie innych firm (%d)"
+   },
+   "cookies_trackers_tooltip": {
+      "message": "Pliki cookie innych firm"
+   },
+   "edge_label": {
+      "message": "Microsoft Edge"
+   },
+   "enable_app": {
+      "message": "Włącz Bitdefender Anti-tracker aby zapobiec śledzeniu na stronach internetowych"
+   },
+   "enable_protection": {
+      "message": "Włącz ochronę na tej stronie"
+   },
+   "essential_category_desc": {
+      "message": "Podstawowe trackery są używane do monitorowania funkcji krytycznych stron internetowych."
+   },
+   "essential_category_title": {
+      "message": "Podstawowe"
+   },
+   "essential_category_tooltip": {
+      "message": "Dotyczy trackerów, które są krytyczne dla funkcjonalności strony."
+   },
+   "essential_page_button_block": {
+      "message": "Włącz blokowanie tej kategorii"
+   },
+   "essential_page_button_unblock": {
+      "message": "Wyłącz blokowanie dla tej kategorii"
+   },
+   "essential_page_title": {
+      "message": "Podstawowe trackery (%d)"
+   },
+   "essentials_trackers_tooltip": {
+      "message": "Podstawowe trackery"
+   },
+   "exception_action_desc": {
+      "message": "Ręcznie dodaj lub usuń strony internetowe poniżej"
+   },
+   "exceptions_desc": {
+      "message": "Trackery na wyłączonych stronach nie będą blokowane."
+   },
+   "exceptions_title": {
+      "message": "Wyjątki"
+   },
+   "extension_status_desc": {
+      "message": "Włącz lub wyłącz rozszerzenie"
+   },
+   "extension_status_off": {
+      "message": "Bitdefender Anti-tracker jest Wyłączony"
+   },
+   "extension_status_on": {
+      "message": "Bitdefender Anti-tracker jest Włączony"
+   },
+   "finish_setup_ext": {
+      "message": "Zakończ konfigurację rozszerzenia"
+   },
+   "firefox_label": {
+      "message": "Mozilla Firefox"
+   },
+   "fix_availability": {
+      "message": "Napraw"
+   },
+   "hide_more_details": {
+      "message": "Ukryj więcej szczegółów."
+   },
+   "iexplore_label": {
+      "message": "Internet Explorer"
+   },
+   "install_add": {
+      "message": "Dodaj do Firefox"
+   },
+   "install_extension": {
+      "message": "Zainstaluj Anti-tracker w tej przeglądarce"
+   },
+   "install_title": {
+      "message": "Anti-tracker Bitdefender"
+   },
+   "interaction_category_desc": {
+      "message": "Lokalizatory interakcji z klientami służą do pomiaru interakcji użytkownika z różnymi formularzami wejściowymi, takimi jak czat lub wsparcie."
+   },
+   "interaction_category_title": {
+      "message": "Interakcja z klientem"
+   },
+   "interaction_category_tooltip": {
+      "message": "Trackery używane do pomiaru interakcji z formularzami takimi jak czat lub wsparcie."
+   },
+   "interaction_page_button_block": {
+      "message": "Włącz blokowanie tej kategorii"
+   },
+   "interaction_page_button_unblock": {
+      "message": "Wyłącz blokowanie dla tej kategorii"
+   },
+   "interaction_page_title": {
+      "message": "Trackery interakcji z klientem (%d)"
+   },
+   "interaction_trackers_tooltip": {
+      "message": "Trackery interakcji z klientem"
+   },
+   "not_enabled": {
+      "message": "Nie włączono"
+   },
+   "off": {
+      "message": "Wyłączony"
+   },
+   "on": {
+      "message": "Włączony"
+   },
+   "page_load": {
+      "message": "Ładowanie strony"
+   },
+   "pause_protection": {
+      "message": "Wstrzymaj ochronę na tej stronie"
+   },
+   "plugins_title": {
+      "message": "Możesz używać Anti-trackera z następującymi aplikacjami"
+   },
+   "policy_accept_agree": {
+      "message": "Zgadzam się"
+   },
+   "policy_accept_click_agree": {
+      "message": "Kliknij Zgadzam się na używanie Bitdefender Anti-Tracker zgodnie z {0}Polityką prywatności{1}."
+   },
+   "policy_accept_data_browser": {
+      "message": "Informacje o przeglądarce"
+   },
+   "policy_accept_data_errors": {
+      "message": "Raporty o błędach"
+   },
+   "policy_accept_data_settings": {
+      "message": "Ustawienia i wyjątki skonfigurowane w rozszerzeniu"
+   },
+   "policy_accept_explain": {
+      "message": "Bitdefender Anti-tracker zbiera anonimowe dane w celu blokowania trackerów, zwiększenia wydajności przeglądania i poprawy komfortu użytkowania. Dane te obejmują:"
+   },
+   "policy_accept_gree": {
+      "message": "Zgadzam się na używanie Bitdefender Anti-Tracker zgodnie z {0}Polityką prywatności{1}."
+   },
+   "policy_accept_open": {
+      "message": "Otwórz Bitdefender Anti-tracker, który znajduje się pod ikoną rozszerzenia {0} w prawym górnym rogu paska narzędzi."
+   },
+   "policy_accept_remove": {
+      "message": "Usuń Bitdefender Anti-Tracker"
+   },
+   "policy_accept_title": {
+      "message": "Twoja prywatność jest najważniejsza"
+   },
+   "policy_accepted_click_reload": {
+      "message": "Kliknij \"Przeładuj i Aktywuj\", aby rozpocząć korzystanie z rozszerzenia."
+   },
+   "policy_accepted_reload": {
+      "message": "Przeładuj i Aktywuj"
+   },
+   "policy_accepted_title": {
+      "message": "Bitdefender Anty-tracker jest gotowy"
+   },
+   "policy_title": {
+      "message": "Włącz Bitdefender Anti-tracker, aby rozpocząć"
+   },
+   "product_lang": {
+      "message": "pl-PL"
+   },
+   "seconds": {
+      "message": "sek."
+   },
+   "settings_title": {
+      "message": "Ustawienia"
+   },
+   "short_name": {
+      "message": "Anti-tracker"
+   },
+   "show_more_details": {
+      "message": "Więcej informacji"
+   },
+   "social_category_desc": {
+      "message": "Trackery mediów społecznościowych służą do monitorowania odbiorców społecznych, aktywności i zaangażowania użytkowników w różnych platformach mediów społecznościowych."
+   },
+   "social_category_title": {
+      "message": "Media społecznościowe"
+   },
+   "social_category_tooltip": {
+      "message": "Trackery używane do pomiaru zaangażowania w różne platformy mediów społecznościowych."
+   },
+   "social_page_button_block": {
+      "message": "Włącz blokowanie tej kategorii"
+   },
+   "social_page_button_unblock": {
+      "message": "Wyłącz blokowanie dla tej kategorii"
+   },
+   "social_page_title": {
+      "message": "Trackery mediów społecznościowych (%d)"
+   },
+   "social_trackers_tooltip": {
+      "message": "Trackery mediów społecznościowych"
+   },
+   "special_offers": {
+      "message": "Oferty specjalne"
+   },
+   "special_offers_tooltip": {
+      "message": "Korzystamy z komercyjnych trackerów, aby ułatwić Ci znalezienie naszych specjalnych ofert. Naszą misją jest ochrona Twojej prywatności. Nigdy nie udostępniamy żadnych informacji zebranych nikomu, w jakimkolwiek celu."
+   },
+   "str": {
+      "message": "trackery"
+   },
+   "title": {
+      "message": "Anti-tracker Bitdefender"
+   },
+   "tooltip": {
+      "message": "Blokuje gromadzenie danych przez moduły śledzące, które umożliwiłyby profilowanie użytkowników i kierowanie na cele komercyjne."
+   },
+   "trackers_blocked": {
+      "message": "Trackery zablokowane"
+   },
+   "update_in_progress": {
+      "message": "Aktualizacja w toku, proszę czekać..."
+   },
+   "url_already_exists": {
+      "message": "URL już istnieje."
+   },
+   "url_is_empty": {
+      "message": "URL jest pusty"
+   },
+   "url_not_valid": {
+      "message": "Adres URL jest nieprawidłowy."
+   },
+   "website_added_list": {
+      "message": "Dodano stronę"
+   },
+   "website_url_enter": {
+      "message": "Wpisz URL strony internetowej"
+   }
+}

@@ -1,0 +1,190 @@
+[
+    {
+        "id": 110001,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "regexFilter": "(http|https)://([a-z\\.]+)bitdefender.([a-z\\.]+)",
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "font",
+                "object",
+                "xmlhttprequest",
+                "ping",
+                "csp_report",
+                "media",
+                "websocket",
+                "webtransport",
+                "webbundle",
+                "other"
+              ]
+        }
+    },
+    {
+        "id": 110002,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/launch-en6b51aa9552f941f88576315ed8766e3f"
+        }
+    },
+    {
+        "id": 110003,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/4b7ac0a30c6cfe2deb06368f62d41f996c29744e/satelliteLib-3a8d5287cf775324dc6c68719a1ddc96c5a139ba"
+        }
+    },
+    {
+        "id": 110004,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/launch-ENa82c50bdc4c541bdb7d581931510efc5"
+        }
+    },
+    {
+        "id": 110005,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/extensions/EP308220a2a4c4403f97fc1960100db40f/AppMeasurement"
+        }
+    },
+    {
+        "id": 110006,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/extensions/EP308220a2a4c4403f97fc1960100db40f/AppMeasurement_Module_AudienceManagement"
+        }
+    },
+    {
+        "id": 110007,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/extensions/EPef068a8d6dd34a43866d9a80cc98baab/AppMeasurement"
+        }
+    },
+    {
+        "id": 110008,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/extensions/EPef068a8d6dd34a43866d9a80cc98baab/AppMeasurement_Module_ActivityMap"
+        }
+    },
+    {
+        "id": 110009,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/8a93f8486ba4/df27e7ff35f3/6ad1b33eca05/RC22febb28520c43e3af9acfb4f9bfa34f"
+        }
+    },
+    {
+        "id": 110010,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/8a93f8486ba4/5492896ad67e/launch-b1f76be4d2ee"
+        }
+    },
+    {
+        "id": 110011,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/8a93f8486ba4/62c1fd5cdcbd/launch-b77a56f2d5f1"
+        }
+    },
+    {
+        "id": 110012,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "assets.adobedtm.com/8a93f8486ba4/0f17a64d87b7/launch-c3512379eccf"
+        }
+    },
+    {
+        "id": 110013,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "urlFilter": "(gtm-pljjb3|gtm-mq8rtn)"
+        }
+    },
+    {
+        "id": 110014,
+        "priority": 100,
+        "action": {
+            "type": "allow"
+        },
+        "condition": {
+            "initiatorDomains": [
+                "bitdefender.com",
+                "bitdefender.co.uk",
+                "bitdefender.fr",
+                "bitdefender.ro",
+                "bitdefender.it",
+                "bitdefender.es",
+                "bitdefender.se",
+                "bitdefender.com.br",
+                "bitdefender.com.au",
+                "bitdefender.pt",
+                "bitdefender.be",
+                "bitdefender.de",
+                "bitdefender.nl"
+            ],
+            "resourceTypes": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "font",
+                "object",
+                "xmlhttprequest",
+                "ping",
+                "csp_report",
+                "media",
+                "websocket",
+                "webtransport",
+                "webbundle",
+                "other"
+              ]
+        }
+    }
+]

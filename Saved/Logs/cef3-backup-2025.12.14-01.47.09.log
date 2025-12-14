@@ -1,0 +1,14 @@
+[28812:33064:1213/184650.535:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28812:33064:1213/184650.602:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28812:33064:1213/184657.578:ERROR:device_event_log_impl.cc(196)] [18:46:57.508] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7000:33352:1213/184659.260:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C3E2F40594EFAFB03441E845056B82E2 will be ignored
+[28812:31764:1213/184700.033:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[28812:33064:1213/184700.276:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28812:33064:1213/184700.276:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28812:33064:1213/184700.276:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28812:33064:1213/184700.276:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28812:31764:1213/184700.281:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28812:31764:1213/184700.624:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28812:31764:1213/184700.651:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28812:31764:1213/184700.666:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28812:33064:1213/184709.604:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

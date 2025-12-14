@@ -1,0 +1,311 @@
+{
+   "add_curr_website": {
+      "message": "현재 웹 사이트를 검사 제외 목록에 추가"
+   },
+   "advertising_category_desc": {
+      "message": "광고 추적 프로그램은 웹 사이트 트래픽, 사용자 행동, 사이트 방문자의 패턴을 분석하는 데 사용됩니다."
+   },
+   "advertising_category_title": {
+      "message": "광고"
+   },
+   "advertising_category_tooltip": {
+      "message": "웹 사이트 트래픽 또는 사용 방식을 분석하는 추적 프로그램입니다."
+   },
+   "advertising_page_button_block": {
+      "message": "차단 실행"
+   },
+   "advertising_page_button_unblock": {
+      "message": "차단 중지"
+   },
+   "advertising_page_title": {
+      "message": "광고 추적 프로그램 (%d)"
+   },
+   "advertising_trackers_tooltip": {
+      "message": "광고 추적 프로그램"
+   },
+   "analytics_category_desc": {
+      "message": "사이트 분석 추적 프로그램은 웹 페이지 사용에 관한 정보를 수집하는 데 사용됩니다."
+   },
+   "analytics_category_title": {
+      "message": "사이트 분석"
+   },
+   "analytics_category_tooltip": {
+      "message": "데이터 분석 및 웹 페이지 사용과 관련된 추적 프로그램입니다."
+   },
+   "analytics_page_button_block": {
+      "message": "차단 실행"
+   },
+   "analytics_page_button_unblock": {
+      "message": "차단 중지"
+   },
+   "analytics_page_title": {
+      "message": "사이트 분석 추적 프로그램 (%d)"
+   },
+   "analytics_trackers_tooltip": {
+      "message": "사이트 분석 추적 프로그램"
+   },
+   "app_desc": {
+      "message": "웹 사이트를 이동할 때마다 여러 유형의 정보를 수집하는 추적 프로그램을 차단하여 개인 정보를 보호하십시오."
+   },
+   "app_name": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "browser_enable_plugin": {
+      "message": "이 브라우저에서 안티-트래커 실행"
+   },
+   "browser_not_installed": {
+      "message": "이 브라우저는 장치에 설치되어 있지 않습니다"
+   },
+   "browser_session_blocked": {
+      "message": "현재 브라우징 세션에서 추척 프로그램 차단"
+   },
+   "chrome_label": {
+      "message": "구글 크롬"
+   },
+   "cookies_category_desc": {
+      "message": "타사 쿠키는 광고주가 타겟팅을 위해 웹사이트에서의 온라인 활동을 모니터링하는 데 사용됩니다."
+   },
+   "cookies_category_title": {
+      "message": "타사 쿠키"
+   },
+   "cookies_category_tooltip": {
+      "message": "웹사이트에서 사용자의 활동을 식별하기 위한 정보를 저장합니다."
+   },
+   "cookies_page_button_block": {
+      "message": "차단 실행"
+   },
+   "cookies_page_button_unblock": {
+      "message": "차단 중지"
+   },
+   "cookies_page_title": {
+      "message": "타사 쿠키 (%d)"
+   },
+   "cookies_trackers_tooltip": {
+      "message": "타사 쿠키"
+   },
+   "edge_label": {
+      "message": "Microsoft Edge"
+   },
+   "enable_app": {
+      "message": "웹사이트 추적기를 중지하려면 Bitdefender Anti-tracker를 활성화하십시오."
+   },
+   "enable_protection": {
+      "message": "이 웹 사이트에서 보호 실행"
+   },
+   "essential_category_desc": {
+      "message": "필수 추적 프로그램은 중요한 웹 페이지 기능을 모니터하는 데 사용됩니다."
+   },
+   "essential_category_title": {
+      "message": "필수"
+   },
+   "essential_category_tooltip": {
+      "message": "웹 페이지의 기능과 관련된 중요한 추적 프로그램입니다."
+   },
+   "essential_page_button_block": {
+      "message": "차단 실행"
+   },
+   "essential_page_button_unblock": {
+      "message": "차단 중지"
+   },
+   "essential_page_title": {
+      "message": "필수 추적 프로그램 (%d)"
+   },
+   "essentials_trackers_tooltip": {
+      "message": "필수 추적 프로그램"
+   },
+   "exception_action_desc": {
+      "message": "웹 사이트 직접 추가/제거"
+   },
+   "exceptions_desc": {
+      "message": "검사에서 제외된 웹 사이트는 차단하지 않습니다."
+   },
+   "exceptions_title": {
+      "message": "검사 제외"
+   },
+   "extension_status_desc": {
+      "message": "확장 프로그램 실행/중지"
+   },
+   "extension_status_off": {
+      "message": "Bitdefender 안티트래커가 꺼져 있습니다."
+   },
+   "extension_status_on": {
+      "message": "Bitdefender 안티 트래커가 켜져 있습니다."
+   },
+   "finish_setup_ext": {
+      "message": "확장 프로그램 설정 완료"
+   },
+   "firefox_label": {
+      "message": "모질라 파이어폭스"
+   },
+   "fix_availability": {
+      "message": "수정 "
+   },
+   "hide_more_details": {
+      "message": "세부 정보 숨기기"
+   },
+   "iexplore_label": {
+      "message": "인터넷 익스플로러"
+   },
+   "install_add": {
+      "message": "Firefox에 추가"
+   },
+   "install_extension": {
+      "message": "이 브라우저에서 안티-트래커 설치"
+   },
+   "install_title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "interaction_category_desc": {
+      "message": "고객 상호 작용 추적 프로그램은 채팅이나 고객 입력 양식과 같은 다양한 입력 양식으로 사용자와 상호 작용을 측정하는 데 사용됩니다."
+   },
+   "interaction_category_title": {
+      "message": "고객 상호 작용"
+   },
+   "interaction_category_tooltip": {
+      "message": "채팅 및 고객 입력 양식처럼 상호 작용을 측정하는 데 사용되는 추적 프로그램입니다."
+   },
+   "interaction_page_button_block": {
+      "message": "차단 실행"
+   },
+   "interaction_page_button_unblock": {
+      "message": "차단 중지"
+   },
+   "interaction_page_title": {
+      "message": "고객 상호 작용 추적 프로그램 (%d)"
+   },
+   "interaction_trackers_tooltip": {
+      "message": "고객 상호 작용 추적 프로그램"
+   },
+   "not_enabled": {
+      "message": "미설치됨"
+   },
+   "off": {
+      "message": "꺼짐"
+   },
+   "on": {
+      "message": "켜짐"
+   },
+   "page_load": {
+      "message": "페이지 로드"
+   },
+   "pause_protection": {
+      "message": "이 웹 사이트에서 보호 일시 중지"
+   },
+   "plugins_title": {
+      "message": "안티-트래커 연결 프로그램"
+   },
+   "policy_accept_agree": {
+      "message": "동의하다"
+   },
+   "policy_accept_click_agree": {
+      "message": "{0}개인 정보 보호 정책{1}에 의해 Bitdefender 안티-트래커를 사용하려면 동의를 클릭하십시오."
+   },
+   "policy_accept_data_browser": {
+      "message": "브라우저 정보"
+   },
+   "policy_accept_data_errors": {
+      "message": "오류 보고서"
+   },
+   "policy_accept_data_settings": {
+      "message": "확장 프로그램에서 설정 및 예외 구성"
+   },
+   "policy_accept_explain": {
+      "message": "Bitdefender 안티-트래커는 익명의 데이터를 수집하여 추적기를 차단하고 브라우징 성능을 높여 사용 경험을 개선합니다. 이 데이터에는 다음이 포함됩니다:"
+   },
+   "policy_accept_gree": {
+      "message": "{0}개인 정보 보호 정책{1}에 의해 Bitdefender 안티-트래커를 사용에 동의합니다."
+   },
+   "policy_accept_open": {
+      "message": "도구 모음의 오른쪽 상단에 있는 확장 프로그램 아이콘 {0} 아래에 있는 Bitdefender 안티-트래커를 여십시오."
+   },
+   "policy_accept_remove": {
+      "message": "Bitdefender 안티-트래커 제거"
+   },
+   "policy_accept_title": {
+      "message": "사용자의 프라이버시가 최우선입니다"
+   },
+   "policy_accepted_click_reload": {
+      "message": "확장 프로그램을 사용하려면 '다시 로드 및 활성화'를 클릭하십시오."
+   },
+   "policy_accepted_reload": {
+      "message": "새로고침 및 활성화"
+   },
+   "policy_accepted_title": {
+      "message": "Bitdefender 안티-트래커 준비 완료"
+   },
+   "policy_title": {
+      "message": "시작하려면 Bitdefender 안티-트래커를 활성화하십시오"
+   },
+   "product_lang": {
+      "message": "ko-KR"
+   },
+   "seconds": {
+      "message": "초"
+   },
+   "settings_title": {
+      "message": "설정"
+   },
+   "short_name": {
+      "message": "안티-트래커"
+   },
+   "show_more_details": {
+      "message": "모두 보기"
+   },
+   "social_category_desc": {
+      "message": "소셜 미디어 추적 프로그램은 다양한 소셜 미디어 플랫폼과의 활동 및 사용자 연관성을 모니터링하는 데 사용됩니다."
+   },
+   "social_category_title": {
+      "message": "소셜 미디어"
+   },
+   "social_category_tooltip": {
+      "message": "다른 소셜 미디어 플랫폼과의 연관성을 측정하는 데 사용되는 추적 프로그램입니다."
+   },
+   "social_page_button_block": {
+      "message": "차단 실행"
+   },
+   "social_page_button_unblock": {
+      "message": "차단 중지"
+   },
+   "social_page_title": {
+      "message": "소셜 미디어 추적 프로그램 (%d)"
+   },
+   "social_trackers_tooltip": {
+      "message": "소셜 미디어 추적 프로그램"
+   },
+   "special_offers": {
+      "message": "특별 오퍼"
+   },
+   "special_offers_tooltip": {
+      "message": "비트디펜더는 고객들에게 맞춤 혜택 제공을 위해 추적 프로그램을 사용하지만, 프라이버시 보호 외 다른 목적으로는 수집된 정보를 제3자와 절대 공유하지 않습니다."
+   },
+   "str": {
+      "message": "추적 프로그램"
+   },
+   "title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "tooltip": {
+      "message": "웹 추적자가 타켓팅 광고를 목적으로 사용자를 프로파일링하고 데이터를 수집하지 못하도록 차단합니다."
+   },
+   "trackers_blocked": {
+      "message": "추척 프로그램 차단"
+   },
+   "update_in_progress": {
+      "message": "업데이트 진행 중, 잠시 기다리십시오..."
+   },
+   "url_already_exists": {
+      "message": "URL이 이미 존재합니다."
+   },
+   "url_is_empty": {
+      "message": "URL이 비어 있습니다"
+   },
+   "url_not_valid": {
+      "message": "잘못된 URL 입니다."
+   },
+   "website_added_list": {
+      "message": "웹사이트 추가 완료"
+   },
+   "website_url_enter": {
+      "message": "웹 사이트 URL 입력"
+   }
+}

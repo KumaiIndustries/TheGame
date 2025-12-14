@@ -1,0 +1,311 @@
+{
+   "add_curr_website": {
+      "message": "Přidání aktuální webové stránky do seznamu."
+   },
+   "advertising_category_desc": {
+      "message": "Reklamní trackery slouží k analýze návštěvnosti webových stránek a k analýze chování uživatelů."
+   },
+   "advertising_category_title": {
+      "message": "Reklama"
+   },
+   "advertising_category_tooltip": {
+      "message": "Trackery, které analyzují návštěvnost webových stránek nebo chování při používání."
+   },
+   "advertising_page_button_block": {
+      "message": "Povolit blokování pro tuto kategorii"
+   },
+   "advertising_page_button_unblock": {
+      "message": "Zakázat blokování pro tuto kategorii"
+   },
+   "advertising_page_title": {
+      "message": "Reklamní trackery (%d)"
+   },
+   "advertising_trackers_tooltip": {
+      "message": "Reklamní trackery"
+   },
+   "analytics_category_desc": {
+      "message": "Analytika stránek slouží ke shromažďování údajů o používání webových stránek."
+   },
+   "analytics_category_title": {
+      "message": "Analytika stránky"
+   },
+   "analytics_category_tooltip": {
+      "message": "Vztahuje se k analýze dat a sledování využití webových stránek."
+   },
+   "analytics_page_button_block": {
+      "message": "Povolit blokování pro tuto kategorii"
+   },
+   "analytics_page_button_unblock": {
+      "message": "Zakázat blokování pro tuto kategorii"
+   },
+   "analytics_page_title": {
+      "message": "Trackery analytiky stránek (%d)"
+   },
+   "analytics_trackers_tooltip": {
+      "message": "Trackery analytiky stránek"
+   },
+   "app_desc": {
+      "message": "Chrání vaše soukromí tím, že blokuje trackery, které sbírají různé typy dat pokaždé, když procházíte web."
+   },
+   "app_name": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "browser_enable_plugin": {
+      "message": "V tomto prohlížeči povolit Anti-tracker"
+   },
+   "browser_not_installed": {
+      "message": "Tento prohlížeč není instalovaný na vašem zařízení"
+   },
+   "browser_session_blocked": {
+      "message": "v aktuální relaci procházení jsou trackery blokovány"
+   },
+   "chrome_label": {
+      "message": "Google Chrome"
+   },
+   "cookies_category_desc": {
+      "message": "Soubory cookie třetích stran používají inzerenti ke sledování online aktivity na webových stránkách za účelem behaviorálního cílení."
+   },
+   "cookies_category_title": {
+      "message": "Soubory cookie třetích stran"
+   },
+   "cookies_category_tooltip": {
+      "message": "Ukládá informace k identifikaci vašeho chování na různých webových stránkách."
+   },
+   "cookies_page_button_block": {
+      "message": "Povolit blokování pro tuto kategorii"
+   },
+   "cookies_page_button_unblock": {
+      "message": "Zakázat blokování pro tuto kategorii"
+   },
+   "cookies_page_title": {
+      "message": "Soubory cookie třetích stran (%d)"
+   },
+   "cookies_trackers_tooltip": {
+      "message": "Soubory cookie třetích stran"
+   },
+   "edge_label": {
+      "message": "Microsoft Edge"
+   },
+   "enable_app": {
+      "message": "Povolení Bitdefender Anti-tracker pro zastavení sledování webových stránek"
+   },
+   "enable_protection": {
+      "message": "Povolit ochranu na těchto webových stránkách"
+   },
+   "essential_category_desc": {
+      "message": "Základní trackery se používají k monitorování kritických funkcí webových stránek."
+   },
+   "essential_category_title": {
+      "message": "Základní"
+   },
+   "essential_category_tooltip": {
+      "message": "Vztahuje se na trackery, které jsou důležité pro funkčnost webových stránek."
+   },
+   "essential_page_button_block": {
+      "message": "Povolit blokování pro tuto kategorii"
+   },
+   "essential_page_button_unblock": {
+      "message": "Zakázat blokování pro tuto kategorii"
+   },
+   "essential_page_title": {
+      "message": "Základní trackery (%d)"
+   },
+   "essentials_trackers_tooltip": {
+      "message": "Základní trackery"
+   },
+   "exception_action_desc": {
+      "message": "Níže přidejte nebo odeberte ručně webové stránky"
+   },
+   "exceptions_desc": {
+      "message": "Trackery uvedené ve výjimkách webových stránek nebudou blokovány."
+   },
+   "exceptions_title": {
+      "message": "Výjimky"
+   },
+   "extension_status_desc": {
+      "message": "Povolit nebo zakázat rozšíření"
+   },
+   "extension_status_off": {
+      "message": "Bitdefender Anti-tracker je vypnutý"
+   },
+   "extension_status_on": {
+      "message": "Bitdefender Anti-tracker je zapnutý"
+   },
+   "finish_setup_ext": {
+      "message": "Dokončete nastavení rozšíření"
+   },
+   "firefox_label": {
+      "message": "Mozilla Firefox"
+   },
+   "fix_availability": {
+      "message": "Vyřešit"
+   },
+   "hide_more_details": {
+      "message": "Skrýt více detailů"
+   },
+   "iexplore_label": {
+      "message": "Internet Explorer"
+   },
+   "install_add": {
+      "message": "Přidat do Firefoxu"
+   },
+   "install_extension": {
+      "message": "Instalovat Anti-tracker do tohoto prohlížeče"
+   },
+   "install_title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "interaction_category_desc": {
+      "message": "Trackery interakce se zákazníkem slouží k měření interakce uživatele s různými vstupními formami, jako je chat nebo podpora."
+   },
+   "interaction_category_title": {
+      "message": "Interakce se zákazníkem"
+   },
+   "interaction_category_tooltip": {
+      "message": "Trackery používané k měření interakce - např. s chatem nebo podporou."
+   },
+   "interaction_page_button_block": {
+      "message": "Povolit blokování pro tuto kategorii"
+   },
+   "interaction_page_button_unblock": {
+      "message": "Zakázat blokování pro tuto kategorii"
+   },
+   "interaction_page_title": {
+      "message": "Trackery interakce se zákazníky (%d)"
+   },
+   "interaction_trackers_tooltip": {
+      "message": "Trackery interakce se zákazníky"
+   },
+   "not_enabled": {
+      "message": "Není aktivován"
+   },
+   "off": {
+      "message": "Vyp."
+   },
+   "on": {
+      "message": "Zap."
+   },
+   "page_load": {
+      "message": "Načtení stránky"
+   },
+   "pause_protection": {
+      "message": "Pozastavte ochranu na této webové stránce"
+   },
+   "plugins_title": {
+      "message": "Nástroj Anti-tracker můžete používat s následujícími aplikacemi."
+   },
+   "policy_accept_agree": {
+      "message": "Souhlasím"
+   },
+   "policy_accept_click_agree": {
+      "message": "Chcete-li používat Bitdefender Anti-Tracker v souladu se zásadami {0}ochrany osobních údajů, klikněte na Souhlasím. {1}"
+   },
+   "policy_accept_data_browser": {
+      "message": "Informace o prohlížeči"
+   },
+   "policy_accept_data_errors": {
+      "message": "Chybová hlášení"
+   },
+   "policy_accept_data_settings": {
+      "message": "Nastavení a výjimky, které nakonfigurujete v rozšíření"
+   },
+   "policy_accept_explain": {
+      "message": "Bitdefender Anti-tracker shromažďuje anonymní data k blokování sledovačů, zvýšení výkonu prohlížení a zlepšení vašeho zážitku. Tato data zahrnují:"
+   },
+   "policy_accept_gree": {
+      "message": "Souhlasíte s používáním Bitdefender Anti-Tracker v souladu se {0}zásadami ochrany osobních údajů. {1}"
+   },
+   "policy_accept_open": {
+      "message": "Otevřete Bitdefender Anti-tracker, který se nachází pod ikonou rozšíření {0} v pravém horním rohu panelu nástrojů."
+   },
+   "policy_accept_remove": {
+      "message": "Odstranit Bitdefender Anti-Tracker"
+   },
+   "policy_accept_title": {
+      "message": "Vaše soukromí je na prvním místě"
+   },
+   "policy_accepted_click_reload": {
+      "message": "Kliknutím na „Znovu načíst a aktivovat“ začněte rozšíření používat."
+   },
+   "policy_accepted_reload": {
+      "message": "Znovu načíst a aktivovat"
+   },
+   "policy_accepted_title": {
+      "message": "Bitdefender Anti-tracker je připraven"
+   },
+   "policy_title": {
+      "message": "Chcete-li začít, povolte Bitdefender Anti-tracker"
+   },
+   "product_lang": {
+      "message": "cs-CZ"
+   },
+   "seconds": {
+      "message": "sec"
+   },
+   "settings_title": {
+      "message": "Nastavení"
+   },
+   "short_name": {
+      "message": "Anti-tracker"
+   },
+   "show_more_details": {
+      "message": "Zobrazit více podrobností"
+   },
+   "social_category_desc": {
+      "message": "Trackery sociálních médií slouží k monitorování sociálního publika, aktivity a zapojení uživatelů do různých platforem sociálních médií."
+   },
+   "social_category_title": {
+      "message": "Sociální média"
+   },
+   "social_category_tooltip": {
+      "message": "Trackery slouží k měření angažovanosti na různých platformách sociálních médií."
+   },
+   "social_page_button_block": {
+      "message": "Povolit blokování pro tuto kategorii"
+   },
+   "social_page_button_unblock": {
+      "message": "Zakázat blokování pro tuto kategorii"
+   },
+   "social_page_title": {
+      "message": "Trackery sociálních medií (%d)"
+   },
+   "social_trackers_tooltip": {
+      "message": "Trackery sociálních medií"
+   },
+   "special_offers": {
+      "message": "Zvláštní nabídky"
+   },
+   "special_offers_tooltip": {
+      "message": "Používáme komerční trackery, abychom vám pomohli snadno najít naše speciální nabídky, naším posláním je chránit vaše soukromí, nikdy s nikým nesdílíme žádné informace získané za jakýmkoliv účelem."
+   },
+   "str": {
+      "message": "trackery"
+   },
+   "title": {
+      "message": "Bitdefender Anti-tracker"
+   },
+   "tooltip": {
+      "message": "Blokuje webovým trackerům sběr dat, která by umožnila profilování uživatelů a komerční cílení."
+   },
+   "trackers_blocked": {
+      "message": "Trackery blokovány"
+   },
+   "update_in_progress": {
+      "message": "Probíhá aktualizace, počkejte prosím..."
+   },
+   "url_already_exists": {
+      "message": "URL již exituje."
+   },
+   "url_is_empty": {
+      "message": "Adresa URL je prázdná"
+   },
+   "url_not_valid": {
+      "message": "Odkaz je neplatný."
+   },
+   "website_added_list": {
+      "message": "Přidány webové stránky"
+   },
+   "website_url_enter": {
+      "message": "Zadejte URL adresu webu"
+   }
+}
